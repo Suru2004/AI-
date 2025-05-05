@@ -1,0 +1,15 @@
+https://developer.salesforce.com/signup
+https://login.salesforce.com/
+public class FirstClass1
+
+{
+public static void firstMethod()
+{
+
+System.debug('WELCOME TO DYPCOEI’);
+
+}
+}
+
+srushtimhaske16469@agentforce.com : username
+surumhaske1616 : password
